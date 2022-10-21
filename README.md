@@ -7,6 +7,6 @@ React Router
 Redux tool-kit
 and Chakra-ui
 
-live at : https://cybergame5.netlify.app/
+live at : https://cybregame.co.il/
 
-![image](https://user-images.githubusercontent.com/99732661/196134735-e748dd06-b7ad-4281-a4b9-8aceb9268fa1.png)
+![image](https://user-images.githubusercontent.com/99732661/197235185-bc41f1fb-bdb4-4b5f-852f-e1e46d354fe3.png)
