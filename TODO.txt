@@ -1,0 +1,31 @@
+TODO:
+1) add icons
+- start?
+- phishing
+- legit
+- start over
+- show wrong
+
+2) Zoom: https://www.npmjs.com/package/react-image-magnifiers
+
+3) Summery Motivation Quate
+
+4) Share, follow
+
+5) Credit footer
+
+
+עוד תיקונים
+לשנות גם את הכותרת
+לשנות את מה שכתוב על הכפתור
+לעדכן - 404
+עיצוב ?
+smooth מעבר
+
+1. להכניס אפשרות להחליף / להוסיף תמונות מבלי לגעת בקוד. יש קובץ של מיפוי (https://cybregame.co.il/mapping/dataSrc.js) אבל כרגע האפליקציה לא מושכת נתונים ממנו - צריך לשנות את הקוד ככה שהאפליקציה תקרא את הנתונים מהקובץ.
+2. לתרגם לעברית וליישר את הכל לימין
+3. להוסיף זכוכית מגדלת (רק במסכי מחשב כי בנייד לא צריך)
+4. להוסיף כפתור שיתוף whatsapp / facebook בדף התוצאות
+5. להוסיף כפתור להוראות במסך הבית 
+6. להטמיע את הלוגו של  CYbreex.com לאורך כל האפליקציה
+7. להטמיע footer בדף האחרון עם קרדיט לי
